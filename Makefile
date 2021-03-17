@@ -1,9 +1,4 @@
 
-
-# calc:
-# 	bison -d fullcalc.y
-# 	flex fullcalc.l
-
 calc:
 	bison -d fullcalc.y
 	flex fullcalc.l
